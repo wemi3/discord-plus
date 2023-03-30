@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://upload-os-bbs.hoyolab.com/upload/2023/03/19/179440628/b277ba4933fe126f13415cf423a665aa_8995668507856338057.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
