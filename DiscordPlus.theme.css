@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://upload-os-bbs.hoyolab.com/upload/2023/03/19/179440628/b277ba4933fe126f13415cf423a665aa_8995668507856338057.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp);
+  --dplus-backdrop: url(https://upload-os-bbs.hoyolab.com/upload/2022/09/16/cf9786dcf83e2d4644f646788ebc3b9f_4323685843690166435.jpg?x-oss-process=image/resize,s_1000/quality,q_80/auto-orient,0/interlace,1/format,jpg);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://i.pinimg.com/236x/53/08/22/5308223bfcb40eb77b9afcb88740b19c.jpg);
+  --dplus-backdrop: url(https://i.pinimg.com/originals/a6/ce/72/a6ce72803b5cbbb426eac27ed6a648fd.jpg);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
